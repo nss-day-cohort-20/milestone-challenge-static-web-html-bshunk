@@ -1,0 +1,33 @@
+body {
+	color: darkgreen;
+	background-color: beige;
+	font-family: 'Crimson Text', serif;
+}
+
+a {
+    color: blue;
+}
+
+#profPic {
+	display: block;
+	margin: auto;
+    width: 25%;
+    padding: 10px;
+    border-radius: 50%;
+}
+
+#pageTitle {
+	text-align: center;
+}
+
+#sitesList {
+	list-style-type: none;
+}
+
+#contactInfo {
+	list-style-type: none;
+}
+
+#copyRight {
+	text-align: center;
+}
